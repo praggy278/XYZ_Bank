@@ -1,0 +1,10 @@
+{
+	"url": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+	"newCustName": "ABC XYZ",
+	"validAmount": "5000",
+	"invalidAmount": "5000000",
+	"firstName" :"ABC",
+	"lastName" :"XYZ",
+	"postCode" :"12345",
+	"currency" : "Rupee"
+}

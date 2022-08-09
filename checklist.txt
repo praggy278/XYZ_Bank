@@ -1,0 +1,19 @@
+1. POM
+2. Folder Structure
+3. Spec Names should be descriptive
+4. Take screenshots
+5. Use Explicit waits
+6. Test Case Document
+7. Separate class for Common Functions in Utility Folder
+8. Pretty Reporter
+9. Jasmine Data Provider
+10. Break it blocks into smaller blocks for better test case management
+11. Use current date and time for saving reports and screenshots
+12. Use an external data file for inputs (json or excel)
+13. Use expect statements
+14. Integration Flow Script
+15. Mapping Document
+16. Check program Flow
+17. Code Formatting
+18. Use of Async and Await
+19. Checklist Excel File
